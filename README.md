@@ -1,4 +1,4 @@
 # Swift5TableViewBasic-training
 iOS Boot Camp　Swift5TableViewBasic  
-・TableView,画面遷移,storyboardID,Identifier,breakpointについて  
-参考記事　https://qiita.com/Masaaki/items/0894776c962a61e5c344
+・TableViewの配置,TableViewのdelegateについて,storyboardIDを用いた画面遷移,Keyboardの開閉について,CellにIdentifierを付ける方法,breakpointについて,cellのハイライトの消し方  
+参考URL　https://qiita.com/Masaaki/items/0894776c962a61e5c344
